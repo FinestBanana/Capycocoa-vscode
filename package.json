@@ -1,0 +1,61 @@
+{
+  "name": "capycocoa-theme",
+  "displayName": "Capycocoa",
+  "description": "A cozy warm color scheme based on chocolate and fruit colors.",
+  "version": "1.0.0",
+  "publisher": "FinestBanana",
+  "icon": "assets/capylogo128.png",
+  "repository": {
+	  "type": "git",
+	  "url": "https://github.com/FinestBanana/Capycocoa-vscode"
+  },
+  "keywords": [
+	  "theme",
+	  "dark theme",
+	  "light theme",
+	  "capycocoa",
+	  "brown",
+	  "capybara",
+	  "capy"
+  ],
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+				"label": "Capycocoa Dark Regular",
+				"uiTheme": "vs-dark",
+				"path": "./themes/capycocoa-dark-regular.json"
+			},
+			{
+				"label": "Capycocoa Dark Intense",
+				"uiTheme": "vs-dark",
+				"path": "./themes/capycocoa-dark-intense.json"
+			},
+			{
+				"label": "Capycocoa Dark Pastel",
+				"uiTheme": "vs-dark",
+				"path": "./themes/capycocoa-dark-pastel.json"
+			},
+			{
+				"label": "Capycocoa Light Regular",
+				"uiTheme": "vs",
+				"path": "./themes/capycocoa-light-regular.json"
+			},
+			{
+				"label": "Capycocoa Light Intense",
+				"uiTheme": "vs",
+				"path": "./themes/capycocoa-light-intense.json"
+			},
+			{
+				"label": "Capycocoa Light Pastel",
+				"uiTheme": "vs",
+				"path": "./themes/capycocoa-light-pastel.json"
+			}
+    ]
+  }
+}
