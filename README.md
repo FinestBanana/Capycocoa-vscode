@@ -2,14 +2,33 @@
 
 <h1 align="center">Capycocoa</h1>
 <p align="center">No generic purple tinted theme. 😘<br><br>
-v1.2: fixed light theme -> lighter bg-colors and better contrast fg-colors 🤘<br>
-v1.1: now contains colors meeting the contrast ratio of 4.5:1 🔬 which might have broken syntax colors of the light theme but you tell me. ☺️</p>
+
+<ul>
+   <li>v2.0:
+      <ul>
+         <li>whole new bg color palette 🖌️ based on HSLuv with HSL interpolation 🧐 -> compared a real piece of chocolate 🍫 to my bg testing color palettes and chose the ones that looked the most natural to me</li>
+         <li>syntax colors are now based on HSLuv grading, the contrast ratio of 4.5:1 is still ensured</li>
+         <li>number of modes reduced to 3 because bloat 😌</li>
+         <li>now supports the ErrorLens, GitLens and GitHub Pull Requests extension
+      </ul>
+   </li>
+   <li>v1.2:
+      <ul>
+         <li>fixed light theme -> lighter bg-colors and better contrast fg-colors 🤘</li>
+      </ul>
+   </li>
+   <li>v1.1:
+      <ul>
+         <li>now contains colors meeting the contrast ratio of 4.5:1 🔬</li>
+      </ul>
+   </li>
+</ul>
 <br>
 <br>
+</p>
 
-<h3 align="center">Dark/Light Modes</h3>
+<h3 align="center">Modes</h3>
 
-| Intense | Regular | Pastel|
+| Zartbitter | Vollmilch | Edelweiß |
 | :-: | :-: | :-: |
-| <img src="assets/capycocoa-dark-intense.png" alt="Dark Intense" width="512"/> | <img src="assets/capycocoa-dark-regular.png" alt="Dark Regular" width="512"/> | <img src="assets/capycocoa-dark-pastel.png" alt="Dark Pastel" width="512"/> |
-| <img src="assets/capycocoa-light-intense.png" alt="Light Intense" width="512"/> | <img src="assets/capycocoa-light-regular.png" alt="Light Regular" width="512"/> | <img src="assets/capycocoa-light-pastel.png" alt="Light Pastel" width="512"/> |
+| <img src="assets/capycocoa-zartbitter.png" alt="Dark Intense" width="512"/> | <img src="assets/capycocoa-vollmilch.png" alt="Dark Regular" width="512"/> | <img src="assets/capycocoa-edelweiss.png" alt="Dark Pastel" width="512"/> |

@@ -2,7 +2,7 @@
   "name": "capycocoa-theme",
   "displayName": "Capycocoa",
   "description": "A cozy warm color scheme based on chocolate and fruit colors.",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "publisher": "FinestBanana",
   "icon": "assets/capylogo128.png",
   "repository": {
@@ -26,35 +26,20 @@
   ],
   "contributes": {
     "themes": [
-      {
-				"label": "Capycocoa Dark Regular",
-				"uiTheme": "vs-dark",
-				"path": "./themes/capycocoa-dark-regular.json"
-			},
 			{
-				"label": "Capycocoa Dark Intense",
-				"uiTheme": "vs-dark",
-				"path": "./themes/capycocoa-dark-intense.json"
-			},
-			{
-				"label": "Capycocoa Dark Pastel",
-				"uiTheme": "vs-dark",
-				"path": "./themes/capycocoa-dark-pastel.json"
-			},
-			{
-				"label": "Capycocoa Light Regular",
+				"label": "Capycocoa Edelweiß",
 				"uiTheme": "vs",
-				"path": "./themes/capycocoa-light-regular.json"
+				"path": "./themes/capycocoa-edelweiss.json"
 			},
 			{
-				"label": "Capycocoa Light Intense",
-				"uiTheme": "vs",
-				"path": "./themes/capycocoa-light-intense.json"
+				"label": "Capycocoa Vollmilch",
+				"uiTheme": "vs-dark",
+				"path": "./themes/capycocoa-vollmilch.json"
 			},
 			{
-				"label": "Capycocoa Light Pastel",
-				"uiTheme": "vs",
-				"path": "./themes/capycocoa-light-pastel.json"
+				"label": "Capycocoa Zartbitter",
+				"uiTheme": "vs-dark",
+				"path": "./themes/capycocoa-zartbitter.json"
 			}
     ]
   }
