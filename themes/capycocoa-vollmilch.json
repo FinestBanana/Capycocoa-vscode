@@ -146,7 +146,7 @@
     "editorCursor.foreground": "#f4e2b8",
     "editorGroup.border": "#543021",
     "editorGroup.dropBackground": "#cf749c33",
-    "editorGroup.emptyBackground": "#361d12",
+    "editorGroup.emptyBackground": "#2b160d",
     "editorGroupHeader.tabsBackground": "#2b160d",
     "editorGutter.background": "#361d12",
     "editorGutter.commentRangeForeground": "#402317",
