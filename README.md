@@ -4,6 +4,11 @@
 <p align="center">No generic purple tinted theme. 😘<br><br>
 
 <ul>
+   <li>v3.0:
+      <ul>
+         <li>add Capycocoa HCF Dark and Light theme -> very dark ⚫ and very light ⚪ flat version of the theme which provide the highest contrast yet 🔲🔳</li>
+      </ul>
+   </li>
    <li>v2.0:
       <ul>
          <li>whole new bg color palette 🖌️ based on HSLuv with HSL interpolation 🧐 -> compared a real piece of chocolate 🍫 to my bg testing color palettes and chose the ones that looked the most natural to me</li>
