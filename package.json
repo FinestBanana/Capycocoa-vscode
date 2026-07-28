@@ -2,7 +2,7 @@
   "name": "capycocoa-theme",
   "displayName": "Capycocoa",
   "description": "A cozy warm color scheme based on chocolate and fruit colors.",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "publisher": "FinestBanana",
   "icon": "assets/capylogo128.png",
   "repository": {
@@ -50,6 +50,11 @@
         "label": "Capycocoa HCF Light",
         "uiTheme": "vs",
         "path": "./themes/capycocoa-hcf-light.json"
+      },
+      {
+        "label": "Capycocoa Giraffe",
+        "uiTheme": "vs-dark",
+        "path": "./themes/capycocoa-giraffe.json"
       }
     ]
   }

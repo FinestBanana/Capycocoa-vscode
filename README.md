@@ -2,8 +2,30 @@
 
 <h1 align="center">Capycocoa</h1>
 <p align="center">No generic purple tinted theme. 😘<br><br>
+Capycocoa currently comprises the 3 original main flavors:<br>
+<b>Capycocoa Zartbitter</b> <i>darker theme</i><br>
+<b>Capycocoa Vollmilch</b> <i>dark theme</i><br>
+<b>Capycocoa Edelweiß</b> <i>light theme</i><br>
+<br>
+two high contrast flat variants:<br>
+<b>Capycocoa HCF Dark<br>
+Capycocoa HCF Light</b><br>
+<br>
+and the special unique design:<br>
+<b>Capycocoa Giraffe</b><br>
+which I affectionately pronounce "giraffy" ( /dʒɪˈræfi/ ) 🤪🦒 because this should be the proper pronunciation if you ask me.
+<br>
+<br>
+</p>
+
+<h2 align="center">🛠️ Changes</h2>
 
 <ul>
+   <li>v3.1:
+      <ul>
+         <li>Giraffy Update 🦒 - aka the 100 DL Update -> imagine a 1k DL update, crazy right? 🙃🤣</li>
+      </ul>
+   </li>
    <li>v3.0:
       <ul>
          <li>add Capycocoa HCF Dark and Light theme -> very dark ⚫ and very light ⚪ flat version of the theme which provide the highest contrast yet 🔲🔳</li>
@@ -32,7 +54,7 @@
 <br>
 </p>
 
-<h3 align="center">Modes</h3>
+<h2 align="center">🎨 Modes</h2>
 
 | Zartbitter | Vollmilch | Edelweiß |
 | :-: | :-: | :-: |
